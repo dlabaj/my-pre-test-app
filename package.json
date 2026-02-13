@@ -2,7 +2,10 @@
   "name": "my-pre-test-app",
   "version": "1.0.0",
   "description": "",
-  "repository": "https://github.com/patternfly/patternfly-react-seed.git",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dlabaj/my-pre-test-app.git"
+  },
   "homepage": "https://patternfly-react-seed.surge.sh",
   "license": "MIT",
   "private": true,
